@@ -1,6 +1,11 @@
 import Row from "./Row";
 
-export default function Grid({ dimensions, colors }): JSX.Element {
+interface GridProps {
+  dimensions: Record<string, number>,
+  colors: Array<string>,
+}
+
+export default function Grid({ dimensions, colors }: GridProps): JSX.Element {
   const rows: Array<JSX.Element> = [];
 
   for (let i = 0; i < dimensions.rows; i++) {

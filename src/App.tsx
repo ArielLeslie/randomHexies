@@ -13,7 +13,7 @@ export default function App() {
   const [colors, setColors] = useState(defaultColors);
   const grid = { rows, perRow };
 
-  const changeColor = (index: number): ((string) => void) => {
+  const changeColor = (index: number): ((color: string) => void) => {
     return (newColor: string) => {
       const updatedColors = [...colors];
       updatedColors[index] = newColor;

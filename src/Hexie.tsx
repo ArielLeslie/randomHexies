@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import ColorPicker from "./ColorPicker";
 
-export default function Hexie({ color }): JSX.Element {
+export default function Hexie({ color }: {color: string}): JSX.Element {
   const [hexColor, setHexColor] = useState(color);
 
   useEffect(() => {
