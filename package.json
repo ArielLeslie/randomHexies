@@ -1,7 +1,7 @@
 {
   "name": "random-hexies",
   "version": "1.0.0",
-  "homepage": "https://arielleslie.github.io",
+  "homepage": "https://arielleslie.github.io/random-hexies",
   "dependencies": {
     "-": "0.0.1",
     "@types/react": "^18.0.18",
