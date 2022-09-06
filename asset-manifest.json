@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b9a01df.chunk.css",
-    "main.js": "/static/js/main.b0809a4e.chunk.js",
-    "main.js.map": "/static/js/main.b0809a4e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e2eff34f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e2eff34f.js.map",
-    "static/js/2.531bb986.chunk.js": "/static/js/2.531bb986.chunk.js",
-    "static/js/2.531bb986.chunk.js.map": "/static/js/2.531bb986.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3b9a01df.chunk.css.map": "/static/css/main.3b9a01df.chunk.css.map",
-    "static/js/2.531bb986.chunk.js.LICENSE.txt": "/static/js/2.531bb986.chunk.js.LICENSE.txt"
+    "main.css": "/random-hexies/static/css/main.3b9a01df.chunk.css",
+    "main.js": "/random-hexies/static/js/main.b0809a4e.chunk.js",
+    "main.js.map": "/random-hexies/static/js/main.b0809a4e.chunk.js.map",
+    "runtime-main.js": "/random-hexies/static/js/runtime-main.e892d528.js",
+    "runtime-main.js.map": "/random-hexies/static/js/runtime-main.e892d528.js.map",
+    "static/js/2.531bb986.chunk.js": "/random-hexies/static/js/2.531bb986.chunk.js",
+    "static/js/2.531bb986.chunk.js.map": "/random-hexies/static/js/2.531bb986.chunk.js.map",
+    "index.html": "/random-hexies/index.html",
+    "static/css/main.3b9a01df.chunk.css.map": "/random-hexies/static/css/main.3b9a01df.chunk.css.map",
+    "static/js/2.531bb986.chunk.js.LICENSE.txt": "/random-hexies/static/js/2.531bb986.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2eff34f.js",
+    "static/js/runtime-main.e892d528.js",
     "static/js/2.531bb986.chunk.js",
     "static/css/main.3b9a01df.chunk.css",
     "static/js/main.b0809a4e.chunk.js"
