@@ -1,15 +1,16 @@
 {
   "name": "random-hexies",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
+  "homepage": "https://arielleslie.github.io/randomHexies",
   "dependencies": {
+    "-": "0.0.1",
     "@types/react": "^18.0.18",
+    "gh-pages": "^4.0.0",
     "react": "18.2.0",
     "react-colorful": "5.6.1",
     "react-dom": "18.2.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^4.0.3",
+    "save-dev": "0.0.1-security"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
